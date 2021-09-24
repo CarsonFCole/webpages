@@ -1,13 +1,15 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [Assignment Description]
+ *Name: Carson Cole
+ *UnityID: cfcole
+ *Date: 9/23/21
+ *Assignment: Guided Lab 4
+ *Description: Make a Webpage for Guided Lab 4
  */
  
 p {
-    property: value;
+    font-family:Times ;
+    font-size: 16px;
+    color: #FFFFFF;
 }
 
 .class {
